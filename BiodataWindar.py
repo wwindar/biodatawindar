@@ -16,7 +16,7 @@ biodata = {
     "Agama"          : "Islam",
     "Kewarganegaraan": "Indonesia",
     "Idola"          : "Hong Pichetpong, Choi Beomgyu, William Jakrapatr, Nanon Korapat, Kim Sunoo, Jeon Jungkook, Park Jinyoung",
-    "Agama"          : "LYKN, Felizz, TXT, Enhypen, BTS, GOT7",
+    "Grup Fav"       : "LYKN, Felizz, TXT, Enhypen, BTS, GOT7",
     "Hobi"           : "Membaca AU/novel, menulis cerita fiksi, mendengarkan musik",
     "Lagu favorit"   : "Trust Me, Just Friend, Spring Day, First Sight, Love Echo, Last Twilight, Not By The Moon",
     "Warna Favorit"  : "Biru dan merah muda",
